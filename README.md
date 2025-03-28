@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning about **LLMs**
 
-- 👨‍💻 Portfolio website: [PORTFOLIO](www.gooogle.com)
+- 👨‍💻 Portfolio website: [PORTFOLIO](https://labheshjoshiportfolio.framer.website/)
 
 - 📫 Reach me at: **labhjoshi17@gmail.com**
 
