@@ -7,16 +7,16 @@
       <img src="wav.gif" width="150px"> 
     <br/>
 </br>
-<h1 align="center">Yo 🤘, I'm Labhesh Joshi</h1>
-<h3 align="center">A passionate Generative AI Enthusiast from India</h3>
+<h1 align="center">Yo, I'm Labhesh Joshi</h1>
+<h3 align="center">I tinker around with SLMs a lot... maybe too much </h3>
 
-- 🌱 I’m currently learning about **LLMs**
+- I’m currently learning about **LLMs**
 
-- 👨‍💻 Portfolio website: [PORTFOLIO](https://labheshjoshiportfolio.framer.website/)
+- Portfolio website: [PORTFOLIO](https://labheshjoshiportfolio.framer.website/)
 
-- 📫 Reach me at: **labhjoshi17@gmail.com**
+- Reach me at: **labhjoshi17@gmail.com**
 
-- 📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1eEEjeFN4HVWCAsbdA5ffuVFKVCn98xtN/view?usp=drive_link)
+- Know about my experience: [RESUME](https://drive.google.com/file/d/1eEEjeFN4HVWCAsbdA5ffuVFKVCn98xtN/view?usp=drive_link)
 
 
 
