@@ -1,6 +1,6 @@
 <p align="center">
   </br>
-      <samp><b>Do as little as needed, not as much as possible.</b></samp>
+      <samp><b>Keep it simple, keep it moving.</b></samp>
   </br>
   <samp>
     </br>
